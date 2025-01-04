@@ -9,7 +9,9 @@
 
 
 ## 🔥 GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chanh03&theme=dracula&date_format=j%20M%5B%20Y%5D)
+<div>
+  <img src="https://streak-stats.demolab.com/?user=Chanh03&theme=dracula&date_format=j%20M%5B%20Y%5D">
+</div>
 
 ## 🏆 GitHub Profile Trophy
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula)
