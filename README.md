@@ -9,7 +9,7 @@
 
 
 ## 🔥 GitHub Streak Stats
-<div>
+<div align="start">
   <img src="https://streak-stats.demolab.com/?user=Chanh03&theme=dracula&date_format=j%20M%5B%20Y%5D">
 </div>
 
