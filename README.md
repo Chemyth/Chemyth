@@ -3,8 +3,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanh03&show_icons=true&theme=dracula" alt="GitHub Stats" width="50%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanh03&layout=compact&theme=dracula" alt="Top Languages" width="50%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanh03&show_icons=true&theme=dracula" alt="GitHub Stats" width="49%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanh03&layout=compact&theme=dracula" alt="Top Languages" width="49%" height="200px"/>
 </div>
 
 
