@@ -17,6 +17,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula" alt="GitHub Profile Trophy" height="200px"/>
 </div>
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Chanh03/vue_cli&type=Date)](https://star-history.com/#Chanh03/vue_cli&Date)
+
 ## Current Team (INACTIVE)
 <table border="1" cellspacing="0" cellpadding="8" style="width: 100%; text-align: left; border-collapse: collapse;">
   <thead>
