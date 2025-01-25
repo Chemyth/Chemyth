@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Chemyth!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0zul&label=Profile%20views&color=c111e4&style=flat-square" alt="0zul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chanh03&label=Profile%20views&color=c111e4&style=flat-square" alt="Chanh03" /> </p>
 ## 📊 GitHub Stats
 
 <div align="center">
