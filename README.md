@@ -17,6 +17,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula" alt="GitHub Profile Trophy" height="200px"/>
 </div>
 
-<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; padding: 10px;">
+<div class="patch-note">
   <p>Update Comming Soon!</p>
 </div>
