@@ -17,6 +17,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula" alt="GitHub Profile Trophy" height="200px"/>
 </div>
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Chanh03/vue_cli&type=Date)](https://star-history.com/#Chanh03/vue_cli&Date)
-
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; padding: 10px;">
+  <p>Update Comming Soon!</p>
+</div>
