@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chemyth!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chanh03&label=Profile%20views&color=c111e4&style=flat-square" alt="Chanh03" /> </p>
 
-# 📌 Current Project
+## 📌 Current Project
 
 > **🚀 Project Name:** *Web Novel*
 >
