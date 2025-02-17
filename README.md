@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula" alt="GitHub Profile Trophy" height="200px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chanh03&theme=dracula" alt="GitHub Profile Trophy"/>
 </div>
 
 <div class="patch-note">
