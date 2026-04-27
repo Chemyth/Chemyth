@@ -1,34 +1,67 @@
-# 👋 Hello, I'm Chemyth!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chemyth&label=Profile%20views&color=c111e4&style=flat-square" alt="Chemyth" /> </p>
+# 👋 Hey, I'm Chemyth
 
-## 📌 Current Project
+> Building things on the web — from ideas to real products.
 
-> **🚀 Project Name:** *Web Novel*
->
-> **📅 Start Date:** *2025-02-15*
->
-> **📌 Status:** *In Progress*
->
-> **📂 Repository:** [LINK](https://github.com/Chemyth/web-novel)
->
-> **📖 Description:** *A web-based platform for reading and writing novels. The project aims to provide a seamless experience for authors and readers, including features such as user authentication, novel management, and interactive reading modes.*
+💻 Fullstack Developer (Web)  
+🚀 Currently building: **Web Novel Platform**  
+📍 Vietnam  
+
+---
+
+## 🚀 Featured Project
+
+### 📖 Web Novel Platform
+
+> A modern platform for reading & writing novels online.
+
+⚡ **Key Features**
+- 🔐 User authentication & authorization  
+- ✍️ Create, edit, and manage novels  
+- 📚 Chapter-based reading system  
+- 🌙 Clean & immersive reading UI  
+
+🛠 **Tech Stack**
+- Frontend: `Next.js`, `React`, `TailwindCSS`  
+- Backend: `Node.js`, `Express`  
+- Database: `MongoDB`  
+
+🔗 **Repository**  
+👉 https://github.com/Chemyth/web-novel  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+`React` • `Next.js` • `TailwindCSS`  
+
+**Backend**  
+`Node.js` • `Express`  
+
+**Database**  
+`MongoDB`  
+
+**Tools**  
+`Git` • `Docker`  
+
+---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chemyth&show_icons=true&theme=dracula" alt="GitHub Stats" width="49%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemyth&layout=compact&theme=dracula" alt="Top Languages" width="49%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chemyth&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemyth&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
-## 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chemyth&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200px"/>
-</div>
+---
 
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chemyth&theme=dracula" alt="GitHub Profile Trophy"/>
-</div>
+## 📫 Contact
 
-<div class="patch-note">
-  <p>Update Comming Soon!</p>
-</div>
+- GitHub: https://github.com/Chemyth  
+- Email: ngovietanh212@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just write code — I build products people can actually use.
