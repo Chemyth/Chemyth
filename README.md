@@ -1,5 +1,4 @@
 # 👋 Hey, I'm Chemyth
-
 > Building things on the web — from ideas to real products.
 
 💻 Fullstack Developer (Web)  
@@ -8,21 +7,16 @@
 
 ---
 # 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chemyth&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemyth&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chemyth&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chemyth&theme=tokyonight" width="48%" />
 </div>
 
 ---
-
-## 📫 Contact
-
+# 📫 Contact
 - GitHub: https://github.com/Chemyth  
 - Email: ngovietanh212@gmail.com
 
 ---
-
-## ⚡ Fun Fact
-
+# ⚡ Fun Fact
 > I don’t just write code — I build products people can actually use.
